@@ -18,7 +18,7 @@ Problem Formulation:
 Problem 1:  What variables are important to predict NBA All-Stars and is it possible to predict the NBA All-stars for future seasons?
 Problem 2: How effective is Home court advantage
 
-## Problem 1:
+## Problem 1: Analyzing NBA All-Star Selection Factors using Predictive Modeling
 
 Aim is to find out what statistics are important for a player to be considered an All-Star and the main variables used are Rebounds, points, win share and assists.
 
@@ -30,7 +30,7 @@ Inference:
 Out of all the variables, Win Share proved to be the most effective as it had the highest correlation with All-Star. 
 Our approach, however, could be improved if it took into consideration the votes of fans, players, and managers. This is due to the fact that voting is a factor in selecting whether or not a player is an All-Star.
 
-## Problem 2:
+## Problem 2: Evaluating Home Court Advantage in Team Win Percentages
 ### (Part 1 file is titled: Home Court Advantage (Effectiveness) )
 
 Aim is to find out whether home court advantage is effective in determining the win percentage of all individual teams.
